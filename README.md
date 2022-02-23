@@ -19,6 +19,6 @@ Oi meu nome é Leonardo dias, estudante de ciências da computanção!
   <a href = "https//wa.me/5564981107095"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Tkl02/Tkl02/blob/output/github-contribution-grid-snake.svg)
  
 </div>
