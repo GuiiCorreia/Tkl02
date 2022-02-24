@@ -1,4 +1,4 @@
-Oi meu nome é Leonardo dias, estudante de ciências da computanção!
+Oi meu nome é Leonardo Dias, sou estudante de Bacharelado em Ciências da Computanção!
 <div align="center">
   <a href="https://github.com/Tkl02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tkl02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
