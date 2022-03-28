@@ -2,8 +2,8 @@
 <hr>
 <div align="center">
   <a href="https://github.com/Tkl02">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Tkl02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkl02&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Tkl02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="205" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkl02&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block">
  
